@@ -18,10 +18,22 @@ Constraints:
 1 <= s.length, t.length <= 5 * 104
 s and t consist of lowercase English letters.
 
+///////////////////////////////////////////////////////////////////// BRUTE FORCE ///////////////////////////////////////////////////////////////////////////////
 
+class Solution {
+    public boolean isAnagram(String s, String t) {
+        // Convert both strings to character arrays
+        char[] temp1 = s.toCharArray();
+        char[] temp2 = t.toCharArray();
 
+        // Sort both character arrays
+        Arrays.sort(temp1);
+        Arrays.sort(temp2);
 
-
+        // Check if the sorted arrays are equal
+        return Arrays.equals(temp1, temp2);
+    }
+}
 
 
 
