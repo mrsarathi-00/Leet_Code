@@ -26,6 +26,7 @@ Happy coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/mrsarathi-00/Leet_Code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrsarathi-00/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mrsarathi-00/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/mrsarathi-00/Leet_Code/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
@@ -44,4 +45,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mrsarathi-00/Leet_Code/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mrsarathi-00/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
