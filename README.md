@@ -29,4 +29,9 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/mrsarathi-00/Leet_Code/tree/master/0162-find-peak-element) |
+| [0400-nth-digit](https://github.com/mrsarathi-00/Leet_Code/tree/master/0400-nth-digit) |
+## Math
+|  |
+| ------- |
+| [0400-nth-digit](https://github.com/mrsarathi-00/Leet_Code/tree/master/0400-nth-digit) |
 <!---LeetCode Topics End-->
