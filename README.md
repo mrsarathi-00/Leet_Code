@@ -24,6 +24,7 @@ Happy coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mrsarathi-00/Leet_Code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrsarathi-00/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0162-find-peak-element](https://github.com/mrsarathi-00/Leet_Code/tree/master/0162-find-peak-element) |
 ## Binary Search
@@ -39,4 +40,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrsarathi-00/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mrsarathi-00/Leet_Code/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
