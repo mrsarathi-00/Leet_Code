@@ -51,6 +51,7 @@ Happy coding! 🚀
 | [0066-plus-one](https://github.com/mrsarathi-00/Leet_Code/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/mrsarathi-00/Leet_Code/tree/master/0400-nth-digit) |
+| [3830-find-closest-person](https://github.com/mrsarathi-00/Leet_Code/tree/master/3830-find-closest-person) |
 ## Two Pointers
 |  |
 | ------- |
