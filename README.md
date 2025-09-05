@@ -30,6 +30,7 @@ Happy coding! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mrsarathi-00/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mrsarathi-00/Leet_Code/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/mrsarathi-00/Leet_Code/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/mrsarathi-00/Leet_Code/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrsarathi-00/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/mrsarathi-00/Leet_Code/tree/master/0162-find-peak-element) |
 ## Binary Search
@@ -43,6 +44,7 @@ Happy coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/mrsarathi-00/Leet_Code/tree/master/0066-plus-one) |
 | [0400-nth-digit](https://github.com/mrsarathi-00/Leet_Code/tree/master/0400-nth-digit) |
 ## Two Pointers
 |  |
