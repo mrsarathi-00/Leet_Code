@@ -31,6 +31,7 @@ Happy coding! 🚀
 | [0035-search-insert-position](https://github.com/mrsarathi-00/Leet_Code/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/mrsarathi-00/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/mrsarathi-00/Leet_Code/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/mrsarathi-00/Leet_Code/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrsarathi-00/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/mrsarathi-00/Leet_Code/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
@@ -56,6 +57,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrsarathi-00/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/mrsarathi-00/Leet_Code/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -79,5 +81,6 @@ Happy coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mrsarathi-00/Leet_Code/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
