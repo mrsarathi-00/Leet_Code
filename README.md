@@ -53,6 +53,7 @@ Happy coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/mrsarathi-00/Leet_Code/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/mrsarathi-00/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/mrsarathi-00/Leet_Code/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
