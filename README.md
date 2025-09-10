@@ -50,6 +50,7 @@ Happy coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/mrsarathi-00/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/mrsarathi-00/Leet_Code/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/mrsarathi-00/Leet_Code/tree/master/0400-nth-digit) |
@@ -64,6 +65,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mrsarathi-00/Leet_Code/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/mrsarathi-00/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -85,4 +87,8 @@ Happy coding! 🚀
 | ------- |
 | [0075-sort-colors](https://github.com/mrsarathi-00/Leet_Code/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/mrsarathi-00/Leet_Code/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
