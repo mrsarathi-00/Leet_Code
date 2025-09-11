@@ -121,4 +121,5 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/mrsarathi-00/Leet_Code/tree/master/0176-second-highest-salary) |
+| [0620-not-boring-movies](https://github.com/mrsarathi-00/Leet_Code/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
