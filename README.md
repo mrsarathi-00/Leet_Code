@@ -38,6 +38,7 @@ Happy coding! 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrsarathi-00/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/mrsarathi-00/Leet_Code/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/mrsarathi-00/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mrsarathi-00/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
@@ -80,6 +81,7 @@ Happy coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/mrsarathi-00/Leet_Code/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/mrsarathi-00/Leet_Code/tree/master/0012-integer-to-roman) |
+| [0217-contains-duplicate](https://github.com/mrsarathi-00/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mrsarathi-00/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
@@ -103,6 +105,7 @@ Happy coding! 🚀
 | ------- |
 | [0075-sort-colors](https://github.com/mrsarathi-00/Leet_Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mrsarathi-00/Leet_Code/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/mrsarathi-00/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mrsarathi-00/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0414-third-maximum-number) |
