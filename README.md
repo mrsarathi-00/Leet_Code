@@ -39,6 +39,7 @@ Happy coding! 🚀
 | [0162-find-peak-element](https://github.com/mrsarathi-00/Leet_Code/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mrsarathi-00/Leet_Code/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -96,6 +97,7 @@ Happy coding! 🚀
 | ------- |
 | [0075-sort-colors](https://github.com/mrsarathi-00/Leet_Code/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0414-third-maximum-number) |
 ## String
 |  |
 | ------- |
