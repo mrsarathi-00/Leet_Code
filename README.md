@@ -125,4 +125,5 @@ Happy coding! 🚀
 | [0584-find-customer-referee](https://github.com/mrsarathi-00/Leet_Code/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/mrsarathi-00/Leet_Code/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/mrsarathi-00/Leet_Code/tree/master/0620-not-boring-movies) |
+| [0627-swap-salary](https://github.com/mrsarathi-00/Leet_Code/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
