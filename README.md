@@ -67,6 +67,7 @@ Happy coding! 🚀
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/mrsarathi-00/Leet_Code/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/mrsarathi-00/Leet_Code/tree/master/0400-nth-digit) |
+| [2812-find-the-maximum-achievable-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/mrsarathi-00/Leet_Code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3830-find-closest-person](https://github.com/mrsarathi-00/Leet_Code/tree/master/3830-find-closest-person) |
 ## Two Pointers
