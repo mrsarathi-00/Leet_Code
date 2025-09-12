@@ -44,6 +44,7 @@ Happy coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/mrsarathi-00/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mrsarathi-00/Leet_Code/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3778-transform-array-by-parity](https://github.com/mrsarathi-00/Leet_Code/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -89,6 +90,7 @@ Happy coding! 🚀
 | [0217-contains-duplicate](https://github.com/mrsarathi-00/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mrsarathi-00/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +116,7 @@ Happy coding! 🚀
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mrsarathi-00/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0414-third-maximum-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3778-transform-array-by-parity](https://github.com/mrsarathi-00/Leet_Code/tree/master/3778-transform-array-by-parity) |
 ## String
 |  |
@@ -141,4 +144,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [3778-transform-array-by-parity](https://github.com/mrsarathi-00/Leet_Code/tree/master/3778-transform-array-by-parity) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
