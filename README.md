@@ -116,6 +116,7 @@ Happy coding! 🚀
 | ------- |
 | [0012-integer-to-roman](https://github.com/mrsarathi-00/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mrsarathi-00/Leet_Code/tree/master/0013-roman-to-integer) |
+| [3379-score-of-a-string](https://github.com/mrsarathi-00/Leet_Code/tree/master/3379-score-of-a-string) |
 ## Greedy
 |  |
 | ------- |
