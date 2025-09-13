@@ -45,6 +45,7 @@ Happy coding! 🚀
 | [0414-third-maximum-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mrsarathi-00/Leet_Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3194-find-words-containing-character](https://github.com/mrsarathi-00/Leet_Code/tree/master/3194-find-words-containing-character) |
 | [3778-transform-array-by-parity](https://github.com/mrsarathi-00/Leet_Code/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -123,6 +124,7 @@ Happy coding! 🚀
 | ------- |
 | [0012-integer-to-roman](https://github.com/mrsarathi-00/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mrsarathi-00/Leet_Code/tree/master/0013-roman-to-integer) |
+| [3194-find-words-containing-character](https://github.com/mrsarathi-00/Leet_Code/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/mrsarathi-00/Leet_Code/tree/master/3379-score-of-a-string) |
 ## Greedy
 |  |
