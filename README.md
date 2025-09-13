@@ -125,6 +125,7 @@ Happy coding! 🚀
 | ------- |
 | [0012-integer-to-roman](https://github.com/mrsarathi-00/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mrsarathi-00/Leet_Code/tree/master/0013-roman-to-integer) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mrsarathi-00/Leet_Code/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3194-find-words-containing-character](https://github.com/mrsarathi-00/Leet_Code/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/mrsarathi-00/Leet_Code/tree/master/3379-score-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mrsarathi-00/Leet_Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -132,6 +133,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mrsarathi-00/Leet_Code/tree/master/0011-container-with-most-water) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mrsarathi-00/Leet_Code/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Database
 |  |
 | ------- |
