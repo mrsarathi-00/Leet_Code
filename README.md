@@ -44,6 +44,7 @@ Happy coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/mrsarathi-00/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mrsarathi-00/Leet_Code/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1006-vowel-spellchecker](https://github.com/mrsarathi-00/Leet_Code/tree/master/1006-vowel-spellchecker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3194-find-words-containing-character](https://github.com/mrsarathi-00/Leet_Code/tree/master/3194-find-words-containing-character) |
 | [3778-transform-array-by-parity](https://github.com/mrsarathi-00/Leet_Code/tree/master/3778-transform-array-by-parity) |
@@ -91,6 +92,7 @@ Happy coding! 🚀
 | [0217-contains-duplicate](https://github.com/mrsarathi-00/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mrsarathi-00/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
+| [1006-vowel-spellchecker](https://github.com/mrsarathi-00/Leet_Code/tree/master/1006-vowel-spellchecker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/mrsarathi-00/Leet_Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
@@ -125,6 +127,7 @@ Happy coding! 🚀
 | ------- |
 | [0012-integer-to-roman](https://github.com/mrsarathi-00/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mrsarathi-00/Leet_Code/tree/master/0013-roman-to-integer) |
+| [1006-vowel-spellchecker](https://github.com/mrsarathi-00/Leet_Code/tree/master/1006-vowel-spellchecker) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mrsarathi-00/Leet_Code/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3194-find-words-containing-character](https://github.com/mrsarathi-00/Leet_Code/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/mrsarathi-00/Leet_Code/tree/master/3379-score-of-a-string) |
