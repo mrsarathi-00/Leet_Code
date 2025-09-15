@@ -70,6 +70,7 @@ Happy coding! 🚀
 | [0007-reverse-integer](https://github.com/mrsarathi-00/Leet_Code/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/mrsarathi-00/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mrsarathi-00/Leet_Code/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/mrsarathi-00/Leet_Code/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/mrsarathi-00/Leet_Code/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/mrsarathi-00/Leet_Code/tree/master/0371-sum-of-two-integers) |
@@ -114,6 +115,7 @@ Happy coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mrsarathi-00/Leet_Code/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0287-find-the-duplicate-number) |
