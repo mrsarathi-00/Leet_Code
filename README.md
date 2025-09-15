@@ -168,6 +168,7 @@ Happy coding! 🚀
 | [0627-swap-salary](https://github.com/mrsarathi-00/Leet_Code/tree/master/0627-swap-salary) |
 | [1258-article-views-i](https://github.com/mrsarathi-00/Leet_Code/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/mrsarathi-00/Leet_Code/tree/master/1908-recyclable-and-low-fat-products) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mrsarathi-00/Leet_Code/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Counting
 |  |
 | ------- |
