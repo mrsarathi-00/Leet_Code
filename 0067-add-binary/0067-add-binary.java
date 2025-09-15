@@ -4,7 +4,7 @@ class Solution {
         int i=a.length()-1;
         int j=b.length()-1;
         int cry=0;
-        while(i>=0 ||j>=0||cry>0){
+        while(i>=0 ||j>=0||cry!=0){
             int sum=cry;
             if(i>=0){
                 sum+=a.charAt(i--)-'0';
