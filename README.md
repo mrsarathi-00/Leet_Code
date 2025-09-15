@@ -44,6 +44,7 @@ Happy coding! 🚀
 | [0287-find-the-duplicate-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mrsarathi-00/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0414-third-maximum-number) |
+| [0560-subarray-sum-equals-k](https://github.com/mrsarathi-00/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mrsarathi-00/Leet_Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1006-vowel-spellchecker](https://github.com/mrsarathi-00/Leet_Code/tree/master/1006-vowel-spellchecker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -101,6 +102,7 @@ Happy coding! 🚀
 | [0217-contains-duplicate](https://github.com/mrsarathi-00/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mrsarathi-00/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/mrsarathi-00/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
 | [1006-vowel-spellchecker](https://github.com/mrsarathi-00/Leet_Code/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrsarathi-00/Leet_Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -185,4 +187,8 @@ Happy coding! 🚀
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mrsarathi-00/Leet_Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mrsarathi-00/Leet_Code/tree/master/2271-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/mrsarathi-00/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
