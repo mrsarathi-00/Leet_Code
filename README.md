@@ -74,6 +74,7 @@ Happy coding! 🚀
 | [0013-roman-to-integer](https://github.com/mrsarathi-00/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/mrsarathi-00/Leet_Code/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/mrsarathi-00/Leet_Code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/mrsarathi-00/Leet_Code/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/mrsarathi-00/Leet_Code/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/mrsarathi-00/Leet_Code/tree/master/0400-nth-digit) |
@@ -120,6 +121,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mrsarathi-00/Leet_Code/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/mrsarathi-00/Leet_Code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0287-find-the-duplicate-number) |
@@ -142,6 +144,7 @@ Happy coding! 🚀
 | [0012-integer-to-roman](https://github.com/mrsarathi-00/Leet_Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mrsarathi-00/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mrsarathi-00/Leet_Code/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/mrsarathi-00/Leet_Code/tree/master/0067-add-binary) |
 | [1006-vowel-spellchecker](https://github.com/mrsarathi-00/Leet_Code/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrsarathi-00/Leet_Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mrsarathi-00/Leet_Code/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -185,6 +188,7 @@ Happy coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mrsarathi-00/Leet_Code/tree/master/0067-add-binary) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mrsarathi-00/Leet_Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mrsarathi-00/Leet_Code/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
