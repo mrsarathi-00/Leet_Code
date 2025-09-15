@@ -47,6 +47,7 @@ Happy coding! 🚀
 | [0882-peak-index-in-a-mountain-array](https://github.com/mrsarathi-00/Leet_Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1006-vowel-spellchecker](https://github.com/mrsarathi-00/Leet_Code/tree/master/1006-vowel-spellchecker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/mrsarathi-00/Leet_Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/mrsarathi-00/Leet_Code/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3194-find-words-containing-character](https://github.com/mrsarathi-00/Leet_Code/tree/master/3194-find-words-containing-character) |
 | [3778-transform-array-by-parity](https://github.com/mrsarathi-00/Leet_Code/tree/master/3778-transform-array-by-parity) |
@@ -86,6 +87,7 @@ Happy coding! 🚀
 | [0088-merge-sorted-array](https://github.com/mrsarathi-00/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mrsarathi-00/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/mrsarathi-00/Leet_Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/2481-strictly-palindromic-number) |
 ## Hash Table
 |  |
@@ -174,4 +176,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mrsarathi-00/Leet_Code/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/mrsarathi-00/Leet_Code/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
