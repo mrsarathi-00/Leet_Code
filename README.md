@@ -81,6 +81,7 @@ Happy coding! 🚀
 | [0371-sum-of-two-integers](https://github.com/mrsarathi-00/Leet_Code/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/mrsarathi-00/Leet_Code/tree/master/0400-nth-digit) |
 | [1635-number-of-good-pairs](https://github.com/mrsarathi-00/Leet_Code/tree/master/1635-number-of-good-pairs) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/mrsarathi-00/Leet_Code/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mrsarathi-00/Leet_Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2481-strictly-palindromic-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/mrsarathi-00/Leet_Code/tree/master/2556-convert-the-temperature) |
