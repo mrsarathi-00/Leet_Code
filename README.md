@@ -62,6 +62,7 @@ Happy coding! 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/mrsarathi-00/Leet_Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mrsarathi-00/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mrsarathi-00/Leet_Code/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/mrsarathi-00/Leet_Code/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mrsarathi-00/Leet_Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/mrsarathi-00/Leet_Code/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
@@ -78,6 +79,7 @@ Happy coding! 🚀
 | [0029-divide-two-integers](https://github.com/mrsarathi-00/Leet_Code/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/mrsarathi-00/Leet_Code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mrsarathi-00/Leet_Code/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/mrsarathi-00/Leet_Code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/mrsarathi-00/Leet_Code/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/mrsarathi-00/Leet_Code/tree/master/0400-nth-digit) |
