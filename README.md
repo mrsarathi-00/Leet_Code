@@ -47,6 +47,7 @@ Happy coding! 🚀
 | [0560-subarray-sum-equals-k](https://github.com/mrsarathi-00/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mrsarathi-00/Leet_Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1006-vowel-spellchecker](https://github.com/mrsarathi-00/Leet_Code/tree/master/1006-vowel-spellchecker) |
+| [1063-best-sightseeing-pair](https://github.com/mrsarathi-00/Leet_Code/tree/master/1063-best-sightseeing-pair) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/mrsarathi-00/Leet_Code/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mrsarathi-00/Leet_Code/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -120,6 +121,7 @@ Happy coding! 🚀
 | ------- |
 | [0053-maximum-subarray](https://github.com/mrsarathi-00/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrsarathi-00/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1063-best-sightseeing-pair](https://github.com/mrsarathi-00/Leet_Code/tree/master/1063-best-sightseeing-pair) |
 ## Divide and Conquer
 |  |
 | ------- |
