@@ -49,6 +49,7 @@ Happy coding! 🚀
 | [1006-vowel-spellchecker](https://github.com/mrsarathi-00/Leet_Code/tree/master/1006-vowel-spellchecker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/mrsarathi-00/Leet_Code/tree/master/1635-number-of-good-pairs) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mrsarathi-00/Leet_Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mrsarathi-00/Leet_Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mrsarathi-00/Leet_Code/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/mrsarathi-00/Leet_Code/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -80,6 +81,7 @@ Happy coding! 🚀
 | [0371-sum-of-two-integers](https://github.com/mrsarathi-00/Leet_Code/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/mrsarathi-00/Leet_Code/tree/master/0400-nth-digit) |
 | [1635-number-of-good-pairs](https://github.com/mrsarathi-00/Leet_Code/tree/master/1635-number-of-good-pairs) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mrsarathi-00/Leet_Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2481-strictly-palindromic-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/mrsarathi-00/Leet_Code/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/2812-find-the-maximum-achievable-number) |
@@ -130,6 +132,7 @@ Happy coding! 🚀
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/mrsarathi-00/Leet_Code/tree/master/0371-sum-of-two-integers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mrsarathi-00/Leet_Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/mrsarathi-00/Leet_Code/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Sorting
 |  |
@@ -203,4 +206,16 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mrsarathi-00/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mrsarathi-00/Leet_Code/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mrsarathi-00/Leet_Code/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/mrsarathi-00/Leet_Code/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
