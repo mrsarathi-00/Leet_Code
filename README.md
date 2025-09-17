@@ -85,6 +85,7 @@ Happy coding! 🚀
 | [0268-missing-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/mrsarathi-00/Leet_Code/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/mrsarathi-00/Leet_Code/tree/master/0400-nth-digit) |
+| [1013-fibonacci-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/mrsarathi-00/Leet_Code/tree/master/1635-number-of-good-pairs) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/mrsarathi-00/Leet_Code/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mrsarathi-00/Leet_Code/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -126,6 +127,7 @@ Happy coding! 🚀
 | ------- |
 | [0053-maximum-subarray](https://github.com/mrsarathi-00/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrsarathi-00/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/mrsarathi-00/Leet_Code/tree/master/1063-best-sightseeing-pair) |
 ## Divide and Conquer
 |  |
@@ -226,4 +228,12 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mrsarathi-00/Leet_Code/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
