@@ -52,6 +52,7 @@ Happy coding! 🚀
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrsarathi-00/Leet_Code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/mrsarathi-00/Leet_Code/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mrsarathi-00/Leet_Code/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2058-concatenation-of-array](https://github.com/mrsarathi-00/Leet_Code/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mrsarathi-00/Leet_Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mrsarathi-00/Leet_Code/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/mrsarathi-00/Leet_Code/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -213,6 +214,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mrsarathi-00/Leet_Code/tree/master/0067-add-binary) |
+| [2058-concatenation-of-array](https://github.com/mrsarathi-00/Leet_Code/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mrsarathi-00/Leet_Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mrsarathi-00/Leet_Code/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
