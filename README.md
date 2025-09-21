@@ -167,6 +167,7 @@ Happy coding! 🚀
 | [0014-longest-common-prefix](https://github.com/mrsarathi-00/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/mrsarathi-00/Leet_Code/tree/master/0067-add-binary) |
 | [1006-vowel-spellchecker](https://github.com/mrsarathi-00/Leet_Code/tree/master/1006-vowel-spellchecker) |
+| [1205-defanging-an-ip-address](https://github.com/mrsarathi-00/Leet_Code/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/mrsarathi-00/Leet_Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mrsarathi-00/Leet_Code/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3194-find-words-containing-character](https://github.com/mrsarathi-00/Leet_Code/tree/master/3194-find-words-containing-character) |
